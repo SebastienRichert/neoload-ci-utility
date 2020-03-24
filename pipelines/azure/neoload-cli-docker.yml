@@ -5,7 +5,7 @@ pool:
 
 variables:
   nlw_token: $(secret_nlw_token)
-  zone_code: $(zoneId)
+  zone_code: ij5yz
   PYTHONUNBUFFERED: 1
 
 # create sidecar containers, attach them to a zone; provide supply this pipeline demands
